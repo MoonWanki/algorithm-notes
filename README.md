@@ -1,10 +1,10 @@
-# Algorithm notes
+# Algorithm notes  
 
-Coding exercise with variable algorithms
+Coding exercise with various algorithms
 
-## Environment
+## Environment  
 
-### C
+### C  
 
 gcc (GCC) 6.3.0
 
@@ -18,7 +18,7 @@ gcc main.c -o main.exe
 ./main.exe
 ```
 
-### Java
+### Java  
 
 Java SE (build 1.8.0_181)
 
@@ -32,7 +32,7 @@ javac main.java
 java main
 ```
 
-### Python 3
+### Python 3  
 
 Python 3.7.1  
 
@@ -41,9 +41,9 @@ Python 3.7.1
 python main.py
 ```
 
-### JavaScript
+### JavaScript  
 
-Node 10.14.2
+Node v10.14.2
 
 - Run
 ```
