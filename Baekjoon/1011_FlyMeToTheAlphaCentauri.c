@@ -1,8 +1,6 @@
 // BACKJOON #1011 <Fly me to the Alpha Centrauri>
 // https://www.acmicpc.net/problem/1011
 
-#include <stdio.h>
-
 unsigned int arr[150000], t, from, to, val = 1, term = 1;
 
 int getMinTimes(unsigned int distance) {
